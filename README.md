@@ -7,7 +7,7 @@ seja de 28% e os impostos de 45%, escreva um algoritmo que leia o custo de fábr
 o custo ao consumidor. 
 Observação caso o consumidor seja portador de necessidades especiais dar desconto de 20%
 
- Faça um programa que receba a idade, altura e o peso de varias pessoas, Calcule e mostre: 
+- Faça um programa que receba a idade, altura e o peso de varias pessoas, Calcule e mostre: 
 A quantidade de pessoas com idade superior a 50 anos; 
 A média das Alturas das pessoas com idade entre 10 e 20 anos 
 A porcentagem das pessoas com peso inferior a 40 quilos entre todas as pessoas analisadas. 
